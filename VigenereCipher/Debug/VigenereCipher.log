@@ -1,0 +1,6 @@
+﻿  VigenereCipher.cpp
+e:\facultate\visualprojects\vigenerecipher\vigenerecipher\vigenerecipher.cpp(13): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\vigenerecipher\vigenerecipher\vigenerecipher.cpp(26): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\vigenerecipher\vigenerecipher\vigenerecipher.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  VigenereCipher.vcxproj -> E:\FACULTATE\VisualProjects\VigenereCipher\Debug\VigenereCipher.exe
+  VigenereCipher.vcxproj -> E:\FACULTATE\VisualProjects\VigenereCipher\Debug\VigenereCipher.pdb (Full PDB)
